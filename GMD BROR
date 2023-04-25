@@ -27,4 +27,4 @@ webbrowser.open("https://www.youtube.com/watch?v=6Cr_8tvvQ0k")
 # End the program with a final message
 print("I hope you have a wonderful birthday and an even better year ahead!")
 print("Keep coding and making amazing things, and remember to take a break and enjoy life too.")
-End
+Return
